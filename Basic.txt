@@ -1,0 +1,3 @@
+after downloading vs code
+install extension : c/c++
+		    code runner
